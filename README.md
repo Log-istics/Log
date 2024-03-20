@@ -16,7 +16,7 @@ Token: https://solscan.io/token/HvF3cR2fQapydsTURSb4afKNz5doxF3RfzJRzrBV5KQM
 
 Log | Powered by Solana
 ----
-SIMPLE BRIEF ON $LOG : New original Solana memecoin, actually funny 🪵
+SIMPLE BRIEF ON $LOG : New original Solana memecoin 🪵
 
 $LOG🪵
 CA: HvF3cR2fQapydsTURSb4afKNz5doxF3RfzJRzrBV5KQM
